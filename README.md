@@ -67,15 +67,34 @@ Dataset yang digunakan:
 
 ---
 
+##  Power BI Dashboard & Visualisasi
+
+Nikmati hasil visualisasi dan storytelling data FMCG dalam dua format:
+
+[![Visualisasi PDF](https://img.shields.io/badge/View-Visualisasi--FMCG.pdf-orange?style=for-the-badge)](https://github.com/xxvlrapss/fmcg-sales-analysis-2022-2024/blob/main/PowerBI/Visualiasi-FMCG.pdf)
+
+[![Download PBIX](https://img.shields.io/badge/Download-PowerBI--Dashboard.pbix-blue?logo=power-bi&style=for-the-badge)](https://github.com/xxvlrapss/fmcg-sales-analysis-2022-2024/blob/main/PowerBI/Visualiasi-FMCG.pbix)
+
+- **Visualisasi-FMCG.pdf** – Versi statis dari dashboard, ideal untuk preview cepat tanpa Power BI.
+- **Visualiasi-FMCG.pbix** – File Power BI interaktif lengkap, bisa kamu buka langsung di Power BI Desktop.
+
+---
+
+ Tambahkan halaman ini pada section “Power BI Dashboard” di README utamamu agar recruiter atau reviewer bisa langsung melihat:
+- **Preview visualisasi** (dengan klik PDF badge)
+- **Dashboard interaktif lengkap** (dengan klik PBIX badge)
+
+---
+
+Kalau kamu mau, aku bisa bantu tempatkan ini dalam struktur README utama sehingga tampil di bagian yang tepat (misalnya di bawah “Power BI” atau diakhiri README sebagai link call-to-action). Mau lanjut seperti itu?
+::contentReference[oaicite:0]{index=0}
+
+---
+
 ## 📝 Notes
 - Data mentah tidak di-commit (lihat `.gitignore`).  
 - Gunakan Git LFS jika ingin menyimpan file `.pbix` besar.  
 - Untuk demo, screenshot dashboard bisa ditambahkan di README.
 
 
-  ## 📊 Power BI Dashboard
-
-File dashboard interaktif siap digunakan:
-[Download/Preview **FMCG_Analysis.pbix**](https://github.com/xxvlrapss/fmcg-sales-analysis-2022-2024/blob/main/PowerBI/FMCG_Analysis.pbix)
-[![Download PBIX](https://img.shields.io/badge/Download-FMCG_Analysis.pbix-blue?logo=power-bi&style=for-the-badge)](https://github.com/xxvlrapss/fmcg-sales-analysis-2022-2024/blob/main/PowerBI/FMCG_Analysis.pbix)
 
