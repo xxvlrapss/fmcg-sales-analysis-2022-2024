@@ -70,5 +70,12 @@ Dataset yang digunakan:
 ## 📝 Notes
 - Data mentah tidak di-commit (lihat `.gitignore`).  
 - Gunakan Git LFS jika ingin menyimpan file `.pbix` besar.  
-- Untuk demo, screenshot dashboard bisa ditambahkan di README.  
+- Untuk demo, screenshot dashboard bisa ditambahkan di README.
+
+
+  ## 📊 Power BI Dashboard
+
+File dashboard interaktif siap digunakan:
+[Download/Preview **FMCG_Analysis.pbix**](https://github.com/xxvlrapss/fmcg-sales-analysis-2022-2024/blob/main/PowerBI/FMCG_Analysis.pbix)
+[![Download PBIX](https://img.shields.io/badge/Download-FMCG_Analysis.pbix-blue?logo=power-bi&style=for-the-badge)](https://github.com/xxvlrapss/fmcg-sales-analysis-2022-2024/blob/main/PowerBI/FMCG_Analysis.pbix)
 
